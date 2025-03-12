@@ -3,12 +3,12 @@ new TypeIt("#tqyxhj", {
         cursorSpeed: 1000,
         speed: 100
     })
-    .type("TQY && XHJ")
+    .type("圣女 && 咖啡续命")
     .pause(2000)
     .delete(null, {
         delay: 500
     })
-    .type("一起走过的第二个520...")
+    .type("相识的第14天...")
     .pause(3000)
     .go();
 
